@@ -36,8 +36,7 @@ Explored the relationships between sale price, gross square feet, and year of sa
 Provided actionable insights and recommendations for stakeholders based on the analysis findings.
 
 # 🛠️ Tools Used
-Power BI for data visualization and interactive dashboards.
-Excel for initial data cleaning and preprocessing.
+R Programming Language for the Analysis.
 
 # 📈 Key Insights
 - Significant historical trends in pricing were identified.
